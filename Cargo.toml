@@ -1,0 +1,11 @@
+[package]
+name = "unix_sighandler"
+version = "0.1.0"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
+edition = "2021"
+description = "A lightweight and straightforward Rust library for handling Unix signals with synchronous callbacks."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/bensatlantik/unix_sighandler"
+
+[dependencies]
+libc = "0.2"
