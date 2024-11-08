@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 ## unix_sighandler
 unix_sighandler is a lightweight and straightforward Rust library for handling Unix signals with minimal overhead. It provides a simple API to register and manage signal handlers, making it ideal for system programming and applications that require clean and efficient signal handling.
 
@@ -60,7 +64,4 @@ You may choose which license to use.
 unix_sighandler was created to provide a simple, efficient, and developer-friendly solution for signal handling in Unix-like environments. It’s designed to be lightweight and easy to integrate into your Rust projects.
 
 ## Author
-Ben Santora <bensatlantik@gmail.com>
-
-
-
+Ben Santora 
